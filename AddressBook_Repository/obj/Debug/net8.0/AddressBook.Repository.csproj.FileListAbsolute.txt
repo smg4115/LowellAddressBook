@@ -1,0 +1,11 @@
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/LowellAddressBook/AddressBook_Repository/bin/Debug/net8.0/AddressBook.Repository.deps.json
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/LowellAddressBook/AddressBook_Repository/bin/Debug/net8.0/AddressBook.Repository.dll
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/LowellAddressBook/AddressBook_Repository/bin/Debug/net8.0/AddressBook.Repository.pdb
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/LowellAddressBook/AddressBook_Repository/obj/Debug/net8.0/AddressBook.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/LowellAddressBook/AddressBook_Repository/obj/Debug/net8.0/AddressBook.Repository.AssemblyInfoInputs.cache
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/LowellAddressBook/AddressBook_Repository/obj/Debug/net8.0/AddressBook.Repository.AssemblyInfo.cs
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/LowellAddressBook/AddressBook_Repository/obj/Debug/net8.0/AddressBook.Repository.csproj.CoreCompileInputs.cache
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/LowellAddressBook/AddressBook_Repository/obj/Debug/net8.0/AddressBook.Repository.dll
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/LowellAddressBook/AddressBook_Repository/obj/Debug/net8.0/refint/AddressBook.Repository.dll
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/LowellAddressBook/AddressBook_Repository/obj/Debug/net8.0/AddressBook.Repository.pdb
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/LowellAddressBook/AddressBook_Repository/obj/Debug/net8.0/ref/AddressBook.Repository.dll
